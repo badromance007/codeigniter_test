@@ -1,6 +1,6 @@
 <?php $this->load->view('admin/components/page_head'); ?>
 
-<body style="background: #555;">
+<body style="background: ;">
 
   <div class="modal show">
     <div class="modal-dialog">
